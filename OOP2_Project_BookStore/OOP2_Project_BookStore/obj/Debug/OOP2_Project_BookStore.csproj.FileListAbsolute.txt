@@ -1,0 +1,136 @@
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csprojAssemblyReference.cache
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Login.resources
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.MainForm.resources
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Properties.Resources.resources
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.GenerateResource.cache
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CoreCompileInputs.cache
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe.config
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.pdb
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CopyComplete
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.exe
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.pdb
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Admin.resources
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sing_In.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe.config
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.pdb
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Admin.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Login.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.MainForm.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sing_In.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CopyComplete
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.exe
+C:\Users\damla\OneDrive\Masaüstü\oop2proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.pdb
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe.config
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.pdb
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csprojAssemblyReference.cache
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Admin.resources
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Login.resources
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.MainForm.resources
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Properties.Resources.resources
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sing_In.resources
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.GenerateResource.cache
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CopyComplete
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.exe
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.pdb
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Account_Info.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe.config
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.pdb
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Account_Info.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Admin.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Login.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.MainForm.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sing_In.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CopyComplete
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.exe
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.pdb
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Shopping.resources
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csprojAssemblyReference.cache
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.exe
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.pdb
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe.config
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.pdb
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Account_Info.resources
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Admin.resources
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Login.resources
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.MainForm.resources
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Properties.Resources.resources
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Shopping.resources
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sing_In.resources
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.GenerateResource.cache
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Fanthal\Desktop\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CopyComplete
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe.config
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.pdb
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csprojAssemblyReference.cache
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Account_Info.resources
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Admin.resources
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Login.resources
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.MainForm.resources
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Properties.Resources.resources
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Shopping.resources
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sing_In.resources
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.GenerateResource.cache
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CopyComplete
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.exe
+C:\Users\Fanthal\Desktop\OOP Proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.pdb
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe.config
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.pdb
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Account_Info.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Admin.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Login.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.MainForm.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Shopping.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sing_In.resources
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CopyComplete
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.exe
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.pdb
+C:\Users\ASUS\Desktop\OOP2_Project_BookStore2\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Basket.resources
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Account_Info.resources
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Basket.resources
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sales.resources
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\itextsharp.dll
+E:\Programing\ESOGU Ders Projeleri\Git\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\itextsharp.xml
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\itextsharp.dll
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\itextsharp.xml
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Basket.resources
+C:\Users\Ayşe Kaya\Desktop\OOP2 Proje\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sales.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe.config
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.exe
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\OOP2_Project_BookStore.pdb
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\itextsharp.dll
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\bin\Debug\itextsharp.xml
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Account_Info.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Admin.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Basket.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Login.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.MainForm.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sales.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.Sing_In.resources
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.csproj.CopyComplete
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.exe
+C:\Users\damla\OneDrive\Masaüstü\oop2_proje\OOP2_Project_BookStore\OOP2_Project_BookStore\obj\Debug\OOP2_Project_BookStore.pdb
