@@ -21,7 +21,7 @@ The shopping invoice has been sent to e-mail addresses.
 
 
         Project Members:
-                   [Pınar Kızılarslan](https://github.com/pinarkizilarslan)
-                   [Damla Dalgıç](https://github.com/damladlg)
+                   Pınar Kızılarslan
+                   Damla Dalgıç
                    Ayşe Kaya
                    Sezer Demir Dedek
